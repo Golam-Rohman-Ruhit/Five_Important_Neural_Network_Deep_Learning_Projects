@@ -48,7 +48,7 @@ For a clear look at how each optimizer performs, the MNIST dataset - short for M
 
 > [!IMPORTANT]
 > ### 📁 Project Documentation
-> **Add Report Doc File Here:** [Link to Experiment 5 Report](#)
+> [LeNet_ex5.docx](https://github.com/user-attachments/files/25084879/LeNet_ex5.docx)
 
 ---
 
