@@ -34,7 +34,7 @@ Data set details: It includes 70,000 black-and-white pictures of hand-drawn numb
 
 > [!IMPORTANT]
 > ### 📁 Project Documentation
-> **Add Report Doc File Here:** [Link to Experiment 4 Report](#)
+> [LeNet.docx](https://github.com/user-attachments/files/25084839/LeNet.docx)
 
 ---
 
