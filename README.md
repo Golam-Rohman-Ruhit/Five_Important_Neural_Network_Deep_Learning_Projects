@@ -16,7 +16,7 @@ The main aim here is solving multi-class image classification - a well-known cha
 
 > [!IMPORTANT]
 > ### 📁 Project Documentation
-> **Add Report Doc File Here:** [Link to Experiment 3 Report](#)
+> **Add Report Doc File Here:** [[MLP for image classificatioon on the MNlST dataset.docx](https://github.com/user-attachments/files/25084796/MLP.for.image.classificatioon.on.the.MNlST.dataset.docx)](#)
 
 ---
 
