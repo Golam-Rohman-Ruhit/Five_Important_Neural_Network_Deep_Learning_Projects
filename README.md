@@ -65,7 +65,7 @@ First came ResNet, a design from Kaiming He and team in 2015. Though deep networ
 
 > [!IMPORTANT]
 > ### 📁 Project Documentation
-> **Add Report Doc File Here:** [Link to Experiment 6 Report](#)
+>[ResNet on the MNIST Dataset exp6 .docx](https://github.com/user-attachments/files/25084914/ResNet.on.the.MNIST.Dataset.exp6.docx)
 
 ---
 
