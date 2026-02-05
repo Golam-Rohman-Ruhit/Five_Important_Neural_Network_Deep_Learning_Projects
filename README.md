@@ -80,7 +80,7 @@ LeNet-5:A breakthrough at its time, LeNet-5 laid the groundwork for today's visu
 
 > [!IMPORTANT]
 > ### 📁 Project Documentation
-> **Add Report Doc File Here:** [Link to Experiment 8 Report](#)
+> [Lenet5+attention.docx](https://github.com/user-attachments/files/25084956/Lenet5%2Battention.docx)
 
 ---
 
